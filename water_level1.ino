@@ -1,13 +1,12 @@
 #include <Adafruit_NeoPixel.h>
 #include <HCSR04.h>
 
-#define PIN 18          // Pin connected to the NeoPixel strip
+#define PIN 4          // Pin connected to the NeoPixel strip
 #define NUMPIXELS 12   // Total LEDs in the strip
 
 Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
-// Ultrasonic Sensor (Trig = 9, Echo = 10)
-UltraSonicDistanceSensor distanceSensor(13,12);  
+UltraSonicDistanceSensor distanceSensor(2,3);  
 
 int current_Last_LED = 0;
 
