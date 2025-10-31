@@ -71,3 +71,9 @@ The LED strip is divided into three color zones:
    - 9–12 LEDs → Green (Full)
 
 ---
+## 📈 Output Example (Serial Monitor)
+
+Distance: 15.23 cm | LEDs On: 2
+Distance: 10.12 cm | LEDs On: 6
+Distance: 5.45 cm  | LEDs On: 10
+
