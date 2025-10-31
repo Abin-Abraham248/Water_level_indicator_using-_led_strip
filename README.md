@@ -54,7 +54,7 @@ The LED strip is divided into three color zones:
 
 ![Circuit Diagram](Water_level_diagram.jpg)
 
-![Circuit Diagram](Water_level1.jpg)
+![Circuit Diagram](water_level1.jpg)
 
 
 
